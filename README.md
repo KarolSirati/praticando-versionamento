@@ -16,4 +16,4 @@ Aprender na prática o fluxo de versionamento de código, do início ao fim, exp
 - Push, pull e fetch
 
 Prática de conflitos
-Simulando um conflito de merge entre branches
+Simulando e testando a resolução manual de conflitos entre branches no Git
